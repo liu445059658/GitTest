@@ -12,6 +12,7 @@
         android:text="Hello World!"
         android:textColor="@color/colorAccent"
         android:textColorHighlight="@color/colorAccent"
+        android:tag="@string/app_name"
        />
 
 </android.support.constraint.ConstraintLayout>

@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:text="Hello World!"
         android:textColor="@color/colorAccent"
+        android:textColorHighlight="@color/colorAccent"
        />
 
 </android.support.constraint.ConstraintLayout>
